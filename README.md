@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nick!</h1>
+<h1>Hi, I'm Nick! Welcome to my portfolio :)</h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
