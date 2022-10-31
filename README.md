@@ -10,6 +10,6 @@
 
 - <b>Penetration Testing Labs</b>
   - [Windows 7 Backdoor](https://github.com/nhamle2/Windows-7-Backdoor)
-  - [Windows 7 Backdoor](https://github.com/nhamle2/Windows-7-SSH)
+  - [Windows 7 SSH](https://github.com/nhamle2/Windows-7-SSH)
 
 
