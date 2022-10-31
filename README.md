@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Pyton</b>
+- <b>Python</b>
   - [Project name](https://google.com)
 - <b>Java</b>
   - [AES-GCM Message Sender](https://github.com/nhamle2/AES-GCM-Message-Sender)
