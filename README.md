@@ -12,6 +12,6 @@
 <h2>👨‍💻 On-going Projects:</h2>
 
 - <b>Python</b>
-  - Keylogger (Completed by Nov '22)
+  - [Keylogger](https://github.com/nhamle2/Keylogger/blob/main/README.md) (Completed by Nov '22)
   - Log Analyzer (Completed by Nov '22)
 
