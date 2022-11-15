@@ -13,6 +13,8 @@
 
 <h2>👨‍💻 On-going Projects:</h2>
 
-- <b>Python & Powershell</b>
-  - Log Analyzer (Completed by Nov '22)
+- <b>CVE Research (Completed by Dec '22)</b>
+  - CVE-2015-8660
+- <b>Library Interpolation for Security Auditing using C (Completed by Dec '22)</b>
+- <b>Automatic Email sender using Python (Completed by Dec '22)</b>
 
