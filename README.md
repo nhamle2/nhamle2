@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Completed Projects:</h2>
 
+- <b>C</b>
+  - [ls Security Auditing](https://github.com/nhamle2/ls-Auditing)
 - <b>Java</b>
   - [AES-GCM Message Sender](https://github.com/nhamle2/AES-GCM-Message-Sender)
   - [TCP Socket File Transfer](https://github.com/nhamle2/TCP-Socket-File-Transfer)
@@ -15,6 +17,5 @@
 
 - <b>CVE Research (Completed by Dec '22)</b>
   - CVE-2015-8660
-- <b>Library Interpolation for Security Auditing using C (Completed by Dec '22)</b>
 - <b>Automatic Email sender using Python (Completed by Dec '22)</b>
 
