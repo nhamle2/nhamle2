@@ -17,5 +17,4 @@
 
 - <b>CVE Research (Completed by Dec '22)</b>
   - CVE-2015-8660
-- <b>Automatic Email sender using Python (Completed by Dec '22)</b>
 
